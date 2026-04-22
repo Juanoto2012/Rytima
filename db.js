@@ -77,7 +77,7 @@
       artist: "100% Wympycornio",
       album: "100 Wympys",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/0u1qxe.jpeg",
+      coverUrl: "https://files.catbox.moe/0u1qxe.jpeg",
       audioUrl: "https://ia600804.us.archive.org/26/items/hllynz.mp3",
       genre: "pop",
       type: "song",
@@ -105,7 +105,7 @@
       artist: "Tuna Araña",
       album: "Hamara",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/5b8wwf.jpeg",
+      coverUrl: "https://files.catbox.moe/5b8wwf.jpeg",
       audioUrl: "https://ia600804.us.archive.org/26/items/5odysg.mp3",
       genre: "Pop",
       type: "song",
@@ -132,7 +132,7 @@
       artist: "Tuna Araña",
       album: "Hamara",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/m3kp56.jfif",
+      coverUrl: "https://files.catbox.moe/m3kp56.jfif",
       audioUrl: "https://ia600804.us.archive.org/26/items/qyb9ht.mp3",
       genre: "Rock",
       type: "song",
@@ -144,7 +144,7 @@
       artist: "100% Wympycornio",
       album: "100 Wympys",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/nruu1g.jfif",
+      coverUrl: "https://files.catbox.moe/nruu1g.jfif",
       audioUrl: "https://ia600804.us.archive.org/26/items/a1wid0.mp3",
       genre: "Pop",
       type: "song",
@@ -157,7 +157,7 @@
       artist: "Tuna Araña",
       album: "Hamara",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/1yrt56.jpeg",
+      coverUrl: "https://files.catbox.moe/1yrt56.jpeg",
       audioUrl: "https://ia600804.us.archive.org/26/items/w2c02v.mp3",
       genre: "Ambient",
       type: "song",
@@ -169,7 +169,7 @@
       artist: "El Mamutcornio",
       album: "The Silent Horn of Camp",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/9xx0d4.jpg",
+      coverUrl: "https://files.catbox.moe/9xx0d4.jpg",
       audioUrl: "https://ia600804.us.archive.org/26/items/5pi38g.mp3",
       genre: "Latino",
       type: "song",
@@ -181,7 +181,7 @@
       artist: "100% Wympycornio",
       album: "100 Wympys",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/9tuqk6.jpeg",
+      coverUrl: "https://files.catbox.moe/9tuqk6.jpeg",
       audioUrl: "https://ia600804.us.archive.org/26/items/3mbnmi.mp3",
       genre: "latino",
       type: "song",
@@ -194,7 +194,7 @@
       artist: "Tuna Araña",
       album: "Hamara",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/lil9ju.jpeg",
+      coverUrl: "https://files.catbox.moe/lil9ju.jpeg",
       audioUrl: "https://ia600804.us.archive.org/26/items/rh6uh0.mp3",
       genre: "Ambient",
       type: "song",
@@ -207,7 +207,7 @@
       artist: "100% Wympycornio",
       album: "100 Wympys",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/6cha0x.jpeg",
+      coverUrl: "https://files.catbox.moe/6cha0x.jpeg",
       audioUrl: "https://ia600804.us.archive.org/26/items/wha9fp.mp3",
       genre: "Latino",
       type: "song",
@@ -220,7 +220,7 @@
       artist: "Manta Symphony",
       album: "Symphony",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/jvcgrg.jpeg",
+      coverUrl: "https://files.catbox.moe/jvcgrg.jpeg",
       audioUrl: "https://ia600804.us.archive.org/26/items/jq680z.mp3",
       genre: "Latino",
       type: "song",
@@ -233,7 +233,7 @@
       artist: "Juanoto2012",
       album: "One Button Away OST",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/sdg9b0.png",
+      coverUrl: "https://files.catbox.moe/sdg9b0.png",
       audioUrl: "https://ia600804.us.archive.org/26/items/gwkp5s.mp3",
       genre: "Soundtrack",
       type: "instrumental"
@@ -244,7 +244,7 @@
       artist: "Juanoto2012",
       album: "One Button Away OST",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/sdg9b0.png",
+      coverUrl: "https://files.catbox.moe/sdg9b0.png",
       audioUrl: "https://ia600804.us.archive.org/26/items/1rdzlc.mp3",
       genre: "Soundtrack",
       type: "instrumental"
@@ -255,7 +255,7 @@
       artist: "Juanoto2012",
       album: "One Button Away OST",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/sdg9b0.png",
+      coverUrl: "https://files.catbox.moe/sdg9b0.png",
       audioUrl: "https://ia600804.us.archive.org/26/items/mi2flh.mp3",
       genre: "Soundtrack",
       type: "instrumental"
@@ -267,7 +267,7 @@
       artist: "Juanoto2012",
       album: "One Button Away OST",
       duration: 230,
-      coverUrl: "https://ia600804.us.archive.org/26/items/sdg9b0.png",
+      coverUrl: "https://files.catbox.moe/sdg9b0.png",
       audioUrl: "https://ia600804.us.archive.org/26/items/zzkigf.mp3",
       genre: "Soundtrack",
       type: "instrumental"
@@ -305,7 +305,7 @@
       id: "3",
       name: "Manta Symphony",
       bio: "Fusión de música clásica con ritmos contemporáneos que te transportan a otro mundo",
-      coverUrl: "https://ia600804.us.archive.org/26/items/38ntt8.png"
+      coverUrl: "https://files.catbox.moe/38ntt8.png"
     },
     {
       id: "4",
@@ -322,7 +322,7 @@
       id: "6",
       name: "Tuna Araña",
       bio: "hamaraaa quedabra",
-      coverUrl: "https://ia600804.us.archive.org/26/items/f58b0d.jpg"
+      coverUrl: "https://files.catbox.moe/f58b0d.jpg"
     },
     
     {
@@ -393,7 +393,7 @@
       title: "One Button Away OST",
       artist: "Juanoto2012",
       year: "2025",
-      coverUrl: "https://ia600804.us.archive.org/26/items/sdg9b0.png",
+      coverUrl: "https://files.catbox.moe/sdg9b0.png",
       tracks: ["2,5"]
     }
         ];
