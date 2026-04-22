@@ -49,7 +49,7 @@
     },
     {
       id: "5",
-      title: "El Manta Movil😎",
+      title: "El Manta Movil",
       artist: "Manta Movíl",
       album: "La Fiesta Manta",
       duration: 230,
