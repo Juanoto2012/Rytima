@@ -310,7 +310,7 @@
     {
       id: "4",
       name: "100% Wympycornio",
-      bio: "Si No Te Suscribes a <a href='https://www.youtube.com/@100wympycornio'>100% Wympycornio</a> en youtube se comera tu alma",
+      bio: "Si No Te Suscribes a 100% Wympycornio en youtube se comera tu alma",
       coverUrl: "https://i.ibb.co/mCBZH712/mcf686oigetdrq.jpg"
     },{
       id: "5",
