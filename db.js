@@ -58,280 +58,8 @@
       genre: "Rock",
       type: "song",
       lyrics: "[Intro - piano] Este es el inicio de una gran misión, un objeto legendario sale del rincón. Un audífono perdido en su interior, transformó el destino con gran fervor.\n[Verse] Este es el [manta móvil], creación que desafía lo débil. Dentro de Manta Mike tomó control y ahora es [voz épica] el [manta móvil], un heraldo mayor. Con ruedas invisibles y un rugido feroz, en las sombras esconde su movimiento. Atros desde el bullicio emerge sin tropezar, el [manta móvil] está listo para actuar.\n[Verse] Este es el [manta móvil], creación que desafía lo débil. Dentro de Manta Mike tomó control y ahora es [voz épica] el [manta móvil], un heraldo mayor. Es la chispa que incendia la imaginación, el misterio entregado de su creación. Un audífono perdido cambió el guión, ahora en la batalla será campeeeón.\n[Verse] Este es el [manta móvil], creación que desafía lo débil. Dentro de Mike tomó control y ahora es [voz épica] el [manta móvil], un heraldo mayor.\n[Outro - piano y guitarra]"
-    },
-    {
+    },{
       id: "6",
-      title: "Adventure Starts",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/qz7syb.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-    },
-    {
-      id: "7",
-      title: "Lost Kingdom",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/dkkvwp.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-    },{
-      id: "8",
-      title: "Stardust Oddieties",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/bj02ns.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-    },{
-      id: "9",
-      title: "Determinated",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/c9nyda.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-    },{
-      id: "10",
-      title: "WarpSpeed Heartbeat",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/crat7z.mp3",
-      genre: "Electrónica",
-      type: "instrumental"
-    },{
-      id: "11",
-      title: "Pixel Kingdom",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/ikj0vm.mp3",
-      genre: "Electrónica",
-      type: "instrumental"
-    },{
-      id: "12",
-      title: "Welcome To The Magic World",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/rtklrz.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-    },{
-      id: "13",
-      title: "Overworld",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/jpbpfg.mp3",
-     genre:"Soundtrack",
-     type: "instrumental"
-    },{
-      id: "14",
-      title: "Battle 1",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/3kygiy.mp3",
-      genre: "Rock",
-      type: "instrumental"
-    },{
-      id: "15",
-      title: "GameOver ×_×",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/lv2e5i.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-      },{
-      id: "16",
-      title: "Market",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/ys30xh.mp3",
-      genre: "Clásica",
-      type: "instrumental"
-    },{
-      id: "17",
-      title: "FrostFall Lunara",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/rslvv5.mp3",
-      genre: "Clásica",
-      type: "instrumental"
-      },{
-      id: "18",
-      title: "Intro",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/kbqjsl.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-    },{
-      id: "19",
-      title: "Strong Enemy",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/sio570.mp3",
-      genre: "Rock",
-      type: "instrumental"
-    },{
-      id: "20",
-      title: "Battle Against an Elf",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/p0vtq8.mp3",
-      genre: "Rock",
-      type: "instrumental"
-    },{
-      id: "21",
-      title: "Bar Brawl",
-      artist: "Brayan Teoh",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/25bik4.mp3",
-      genre: "Jazz",
-      type: "instrumental"
-    },{
-      id: "22",
-      title: "Icy Forest",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/8oz8eb.mp3",
-      genre: "Ambient",
-      type: "instrumental"
-    },{
-      id: "23",
-      title: "Arachne The Weaver Of Fate",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/6g66tl.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-    },{
-      id: "24",
-      title: "Game Start",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/32pcti.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-    },{
-      id: "25",
-      title: "The City In The Sky",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/uvdyqv.mp3",
-      genre: "Ambient",
-      type: "instrumental"
-    },{
-      id: "26",
-      title: "The Library Of Enicmatic Order",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/e82rm2.mp3",
-      genre: "Clásica",
-      type: "instrumental"
-    },{
-      id: "27",
-      title: "Lion The Knight ",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/9jiocr.mp3",
-      genre: "Clásica",
-      type: "instrumental"
-    },{
-      id: "28",
-      title: "The King Of Elfs",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/m0mj7w.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-    },{
-      id: "29",
-      title: "Other Dimension!?",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/rxci0z.mp3",
-      genre: "Electrónica",
-      type: "instrumental"
-    },{
-      id: "30",
-      title: "Quick!!!",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/7bnjkl.mp3",
-      genre: "Rock",
-      type: "instrumental"
-    },{
-      id: "31",
-      title: "The Darkness Calls Us",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/83tdpi.mp3",
-      genre: "Rock",
-      type: "instrumental"
-    },{
-      id: "32",
-      title: "The Castle of the Elves",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/zp5z5o.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-    },{
-      id: "33",
       title: "Panadería Panpornio",
       artist: "100% Wympycornio",
       album: "100 Wympys",
@@ -343,7 +71,7 @@
       lyrics: "[Verse] Panadería, Panpornio, sabor del día, Panpornio. Tu alegría en cada mordida, hecho de amor para un día especial, con Wympycornio siempre es sensacional.\n[Chorus] Panadería, Panpornio, pan para el alma, Panpornio. Secreto mejor guardado del vecindario.\n[Verse 2] Panadería, Panpornio, nunca te falla, Panpornio en tu mesa, siempre en batalla. Hecho de dulzura para una sonrisa, con Wympycornio mi amor se divisa.\n[Bridge] Panadería, Panpornio, calidez hogareña, Panpornio, tus días siempre serán leña. Hecho de ternura, hecho con cariño, con Wympycornio nunca estarás solo, niño.\n[Outro] Panadería, el mejor guardado del vecindario."
     },
     {
-      id: "34",
+      id: "7",
       title: "Owner of a lonley camp",
       artist: "Mamutcardo campjona",
       album: "Carta a un Narval que Nunca Llegó",
@@ -355,7 +83,7 @@
       lyrics: "[Verse 1] Noche fría bajo el cielo sin final, el campamento canta su silencio mortal. Mira perdido en aguas de cristal, soledad que pesa como un metal. Dueño de un campamento sin hogar, mejor que uno roto en medio del mar. Mira el horizonte, busca un lugar, eco del vacío que no deja escapar. [Chorus] Dueño de un gran campamento solitario, mejor que roto, mejor necesario. Dueño de un destino imaginario, sombras largas, sal sobre lo diario. [Verse 2] Narval nada entre lo irreal, sueños rotos flotan al final. El mundo gira sin parar, grito al viento sin contestar. La luna brilla sin redención, la soledad, mi única canción. Al momento solitario de esta nación, le canto con voz sin dirección. [Chorus] Dueño de un gran campamento solitario, mejor que roto, mejor necesario. La marea sube el río a diario, soy dueño de un destino imaginario."
     },
         {
-      id: "35",
+      id: "8",
       title: "Manta Dream",
       artist: "Manta Symphony",
       album: "Symphony",
@@ -366,7 +94,7 @@
       type: "instrumental"
     },
     {
-      id: "36",
+      id: "9",
       title: "Un camp es un narval!!!",
       artist: "Manta Movíl",
       album: "La Fiesta Manta",
@@ -378,7 +106,7 @@
       lyrics: "[Verse] En la noche oscura, bajo el gran fanal, suje un [manta móvil], como un vendaval, ruedas que giran, un rugido letal, y en el [camp] espera el gran narrvar.\n[Chorus] Ow! Ow! [[Con un manta móvil, en el camp]] Ow! Ow! [[Porque es un narval No Hay mas que alcarar]]\n[Verse] El motor ruge, un ritmo tribal, luz de neón pinta el ritual, el narval observa, su trono es vital, en el [camp] se vive un sueño irreal.\n[Chorus] Ow! [[Con un manta móvil, en el camp]] Ow! [[Porque es un narval]] En el [camp], no hay más que aclarar.\n[Bridge] El motor ruge, un ritmo tribal, y en el [camp], no hay más que aclarar, en el [camp] se vive un sueño irreal, en el [camp] se siente la fibra total.\n[Chorus] Ow! Ow! [[Con un manta móvil, en el camp]] Ow! Ow! [[Porque es un narval]] En el [camp] se vive un sueño irreal."
     },
     {
-      id: "37",
+      id: "10",
       title: "Owner of a broken camp",
       artist: "Mamutcardo Campjona",
       album: "The Silent Horn of Camp",
@@ -389,7 +117,7 @@
       type: "song",
       lyrics: "[lyrics not aviable]"   },
         {
-      id: "38",
+      id: "11",
      title: "Mr.Campman",
     artist: "Manta Symphony",
      album: "Symphony",
@@ -401,7 +129,7 @@
     lyrics: "[Verse] Mr. Campman, I'm so alone, sitting here dreaming by my telephone. No one to call, no one to see, bring me a camp to keep me company.\n[Chorus] Oh, Mr. Campman, hear my plea, I'm lost in the dark, can't you rescue me? Don't have a wimpy to talk to at night, bring me a camp to make it all right.\n[Verse] Doo-wop shadows play on the wall, I'm a-hummin' your name in the echoing hall. Stars above twinkle, but they don't know, how much I need a camp to show.\n[Chorus] Oh, Mr. Campman, hear my plea, I'm lost in the dark, can't you rescue me? Don't have a wimpy to talk to at night, bring me a camp to make it all right.\n[Bridge] Step into my dreams with a swinging stride, bring the camp to fill the void inside. I'll wait right here with my heart aglow, Mr. Campman, bring me what I long to know.\n[Chorus] Oh, Mr. Campman, hear my plea, I'm lost in the dark, can't you rescue me? Don't have a webby to talk to at night, bring me a camp to make it all right.\n[Bridge] Step into my dreams with a swinging stride, bring the camp to fill the void inside. And I'll wait right here with my heart aglow, Mr. Campman, bring me what I long to know.\n[Chorus] Oh, Mr. Campman, hear my plea, I'm lost in the dark, can't you rescue me? Don't have a wimpy to talk to at night, bring me a camp to make it all right.\n[Bridge] Step into my dreams with a swingin' stride, bring the camp to fill the void inside. I'll wait right here with my heart aglow, Mr. Campman, bring me what I long to know.\n[Outro] Oh, Mr. Campman, hear my plea, I'm lost in the dark, can't you rescue me? Don't have a limpy to talk to at night, bring me a camp, camp, to make it all right... to make it all right."
 } ,
     {
-      id: "39",
+      id: "12",
       title: "Vuela Vuela Mamut",
       artist: "100% Wympycornio",
       album: "100 Wympys",
@@ -415,7 +143,7 @@
     }
     ,
     {
-      id: "40",
+      id: "13",
       title: "el wymptcornio panadero",
       artist: "100% Wympycornio",
       album: "100 Wympys",
@@ -429,7 +157,7 @@
     },
 
     {
-      id: "41",
+      id: "14",
       title: "Una Tuna",
       artist: "Tuna Araña",
       album: "Hamara",
@@ -443,7 +171,7 @@
     },
     
     {
-      id: "42",
+      id: "15",
       title: "El Observa",
       artist: "Manta Movíl",
       album: "La Fiesta Manta",
@@ -456,7 +184,7 @@
     },
 
     {
-      id: "43",
+      id: "16",
       title: "La Tuna Solitaria",
       artist: "Tuna Araña",
       album: "Hamara",
@@ -467,7 +195,7 @@
       type: "song",
       lyrics: "[Verso] Sola camina la tuna al sol La sombra ausente su único rol Sus hojas verdes cantan dolor El viento calla su amargo clamor [Verso 2] Las noches largas la ven pasar La luna oculta no quiere mirar Raíces secas no pueden hablar Su llanto mudo empieza a gritar [Estribillo] Y triste se sentó y lloró Su savia al suelo se derramó Nadie la escucha nadie la ve Sólo el silencio sabe por qué [Puente] El desierto guarda su pena Arena y cielo tejen su cadena Un eco sordo en la inmensidad Grita su nombre en la soledad [Verso 3] El sol la abraza con cruel calor Su piel espina oculta el temor No hay horizonte que pueda alcanzar La tuna sigue sin descansar [Estribillo] Y triste se sentó y lloró Su savia al suelo se derramó Nadie la escucha nadie la ve Sólo el silencio sabe por qué"   }
   ,{
-      id: "44",
+      id: "17",
       title: "Glacial Encounter",
       artist: "Juanoto2012",
       album: "Arachne The Weaver Of Fate",
@@ -478,7 +206,7 @@
       type: "instrumental"
     },
      {
-      id: "45",
+      id: "18",
       title: "Cotton Candy Narwhal",
       artist: "100% Wympycornio",
       album: "100 Wympys",
@@ -491,7 +219,7 @@
 
      },
   {
-      id: "46",
+      id: "19",
       title: "The Narwhal Wimpy",
       artist: "Tuna Araña",
       album: "Hamara",
@@ -503,7 +231,7 @@
        lyrics:"[Verse] Hamarra la tuna sings to the moon, campfire crackles, a lonesome tune. Wimpy narwhal swims through my head, Cornio dreams in the ocean bed. [Chorus] Oh narval, oh narval, what's your plan? Swimming in circles, avoiding the land. Cornio dreams, so soft, so wild. Oh narval, oh narval, ocean's child. [Verse 2] The stars wink twice, the waves reply, a tale of a narwhal too shy to try. Its horn a beacon, yet it hides away, under the tides where it dreams all day. [Bridge] Wimpy narwhal, what do you see? Is the world too big, or are you just free? Cornio thoughts, floating so light, lost in the deep, lost in the night. [Chorus] Oh narval, oh narval, what's your plan? Swimming in circles, avoiding the land. Cornio dreams, so soft, so wild. Oh narval, oh narval, ocean's child. [Outro] Hamarra la tuna hums once more, narwhal drifts where the deep implores. Cornio dreams, forever they'll stay. Wimpy narwhal, drifting away."
     },
     {
-      id: "47",
+      id: "20",
       title: "Bunorritos,s Cry",
       artist: "Mamutcardo campjona",
       album: "The Silent Horn of Camp",
@@ -515,7 +243,7 @@
       lyrics: "[Verse] The bunorrito screams in the night Wrapped up tight but ready to fight Hot sauce tears roll down its side [Chorus] Wesufro dice el bunorrito Spicy dreams and jalapeñito Wrapped in foil but feeling poquito [Verse 2] Cheese melts slow A savory drip Beans and rice on a flavor trip But the salsa burns Oh what a flip [Chorus] Wesufro dice el bunorrito Spicy dreams and jalapeñito Wrapped in foil but feeling poquito [Bridge] It's a battle A tortilla war Flavor-packed but aching sore Chili fire It can't ignore [Chorus] Wesufro dice el bunorrito Spicy dreams and jalapeñito Wrapped in foil but feeling poquito"   
     },
     {
-      id: "48",
+      id: "21",
       title: "Calipso",
       artist: "100% Wympycornio",
       album: "100 Wympys",
@@ -528,7 +256,7 @@
 
     }, 
     {
-      id: "49",
+      id: "22",
       title: "We Sufro",
       artist: "Tuna Araña",
       album: "Hamara",
@@ -541,7 +269,7 @@
   
     },
     {
-      id: "50",
+      id: "23",
       title: "Shark Tiburon de Peluche",
       artist: "100% Wympycornio",
       album: "100 Wympys",
@@ -554,7 +282,7 @@
 
     },
     {
-      id: "51",
+      id: "24",
       title: "WympyPop",
       artist: "Manta Symphony",
       album: "Symphony",
@@ -567,7 +295,7 @@
 
     },
     {
-      id: "54",
+      id: "25",
       title: "Sneaky Shuffle",
       artist: "Juanoto2012",
       album: "One Button Away OST",
@@ -578,7 +306,7 @@
       type: "instrumental"
        },
     {
-      id: "55",
+      id: "26",
       title: "Menu Theme",
       artist: "Juanoto2012",
       album: "One Button Away OST",
@@ -589,7 +317,7 @@
       type: "instrumental"
        },
     {
-      id: "56",
+      id: "27",
       title: "Power Up",
       artist: "Juanoto2012",
       album: "One Button Away OST",
@@ -601,7 +329,7 @@
        }
        ,
     {
-      id: "57",
+      id: "28",
       title: "Sneaky Shuffle (Cave Level)",
       artist: "Juanoto2012",
       album: "One Button Away OST",
@@ -614,7 +342,7 @@
 
        ,
     {
-      id: "67",
+      id: "29",
       title: "Truth in Low Volume",
       artist: "Manta Movíl",
       album: "La Fiesta Manta",
@@ -699,27 +427,20 @@
     },
     {
       id: "4",
-      title: "Arachne The Weaver Of Fate",
-      artist: "Juanoto2012",
-      year: "2025",
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      tracks: ["3"]
-    },{
-      id: "5",
       title: "100 Wympys",
       artist: "100% Wympycornio",
       year: "2025",
       coverUrl: "https://i.ibb.co/CKpVtKG5/IMG-20250614-WA0004.jpg",
       tracks: ["3"]
     },{
-      id: "6",
+      id: "5",
       title: "The Silent Horn of Camp",
       artist: "Mamutcardo campjona",
       year: "2025",
       coverUrl: "https://i.ibb.co/W4DKc32n/mcg8qduf6288nt.jpg",
       tracks: ["3"]
     },{
-      id: "7",
+      id: "6",
       title: "Hamara",
       artist: "Tuna Araña",
       year: "2025",
@@ -727,7 +448,7 @@
       tracks: ["3"]
     },
     {
-      id: "8",
+      id: "7",
       title: "Historias del Mar",
       artist: "Carlos Mantaraya",
       year: "2025",
@@ -735,7 +456,7 @@
       tracks: ["p1"]
     },
     {
-      id: "12",
+      id: "8",
       title: "One Button Away OST",
       artist: "Juanoto2012",
       year: "2025",
