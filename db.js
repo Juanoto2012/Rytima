@@ -2,7 +2,7 @@
         const songs = [
         {
       id: "1",
-      title: "El Mamutcornio",
+      title: "El Mamutcornio Taxista",
       artist: "Mamutcardo campjona",
       album: "Carta a un Narval que Nunca Llegó",
       duration: 205, // in seconds
