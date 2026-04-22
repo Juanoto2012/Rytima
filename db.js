@@ -194,17 +194,7 @@
       genre: "Rock",
       type: "song",
       lyrics: "[Verso] Sola camina la tuna al sol La sombra ausente su único rol Sus hojas verdes cantan dolor El viento calla su amargo clamor [Verso 2] Las noches largas la ven pasar La luna oculta no quiere mirar Raíces secas no pueden hablar Su llanto mudo empieza a gritar [Estribillo] Y triste se sentó y lloró Su savia al suelo se derramó Nadie la escucha nadie la ve Sólo el silencio sabe por qué [Puente] El desierto guarda su pena Arena y cielo tejen su cadena Un eco sordo en la inmensidad Grita su nombre en la soledad [Verso 3] El sol la abraza con cruel calor Su piel espina oculta el temor No hay horizonte que pueda alcanzar La tuna sigue sin descansar [Estribillo] Y triste se sentó y lloró Su savia al suelo se derramó Nadie la escucha nadie la ve Sólo el silencio sabe por qué"   }
-  ,{
-      id: "17",
-      title: "Glacial Encounter",
-      artist: "Juanoto2012",
-      album: "Arachne The Weaver Of Fate",
-      duration: 230,
-      coverUrl: "https://user.uploads.dev/file/46d808e6cd5148a82f13b6b347c5fa5f.jpg",
-      audioUrl: "https://files.catbox.moe/oyaeir.mp3",
-      genre: "Ambient",
-      type: "instrumental"
-    },
+  ,
      {
       id: "18",
       title: "Cotton Candy Narwhal",
