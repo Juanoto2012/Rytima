@@ -43,7 +43,7 @@
       album: "La Fiesta Manta",
       duration: 230,
       coverUrl: "https://file.garden/aKIWFnfXzhwEFeKS/Manta%20Music/Manta%20Movil.jpg",
-      audioUrl: "https://ia600804.us.archive.org/26/items/l1uj1c/zllpn2.mp3",
+      audioUrl: "https://ia600804.us.archive.org/26/items/l1uj1c/El%20Manta%20Mov%27il%20%28Drip%20Remix%29.mp3",
       genre: "Rock",
       type: "song",
       lyrics: "[Intro - piano] Este es el inicio de una gran misión, un objeto legendario sale del rincón. Un audífono perdido en su interior, transformó el destino con gran fervor.\n[Verse] Este es el [manta móvil], creación que desafía lo débil. Dentro de Manta Mike tomó control y ahora es [voz épica] el [manta móvil], un heraldo mayor. Con ruedas invisibles y un rugido feroz, en las sombras esconde su movimiento. Atros desde el bullicio emerge sin tropezar, el [manta móvil] está listo para actuar.\n[Verse] Este es el [manta móvil], creación que desafía lo débil. Dentro de Manta Mike tomó control y ahora es [voz épica] el [manta móvil], un heraldo mayor. Es la chispa que incendia la imaginación, el misterio entregado de su creación. Un audífono perdido cambió el guión, ahora en la batalla será campeeeón.\n[Verse] Este es el [manta móvil], creación que desafía lo débil. Dentro de Mike tomó control y ahora es [voz épica] el [manta móvil], un heraldo mayor.\n[Outro - piano y guitarra]"
