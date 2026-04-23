@@ -47,29 +47,6 @@
       genre: "Rock",
       type: "song",
       lyrics: "[Intro - piano] Este es el inicio de una gran misión, un objeto legendario sale del rincón. Un audífono perdido en su interior, transformó el destino con gran fervor.\n[Verse] Este es el [manta móvil], creación que desafía lo débil. Dentro de Manta Mike tomó control y ahora es [voz épica] el [manta móvil], un heraldo mayor. Con ruedas invisibles y un rugido feroz, en las sombras esconde su movimiento. Atros desde el bullicio emerge sin tropezar, el [manta móvil] está listo para actuar.\n[Verse] Este es el [manta móvil], creación que desafía lo débil. Dentro de Manta Mike tomó control y ahora es [voz épica] el [manta móvil], un heraldo mayor. Es la chispa que incendia la imaginación, el misterio entregado de su creación. Un audífono perdido cambió el guión, ahora en la batalla será campeeeón.\n[Verse] Este es el [manta móvil], creación que desafía lo débil. Dentro de Mike tomó control y ahora es [voz épica] el [manta móvil], un heraldo mayor.\n[Outro - piano y guitarra]"
-    },{
-      id: "6",
-      title: "Panadería Panpornio",
-      artist: "100% Wympycornio",
-      album: "100 Wympys",
-      duration: 230,
-      coverUrl: "https://i.ibb.co/C38XzpdH/IMG-20250614-WA0005.jpg",
-      audioUrl: "https://ia600804.us.archive.org/26/items/l1uj1c/0c8rvq.mp3",
-      genre: "Pop",
-      type: "song",
-      lyrics: "[Verse] Panadería, Panpornio, sabor del día, Panpornio. Tu alegría en cada mordida, hecho de amor para un día especial, con Wympycornio siempre es sensacional.\n[Chorus] Panadería, Panpornio, pan para el alma, Panpornio. Secreto mejor guardado del vecindario.\n[Verse 2] Panadería, Panpornio, nunca te falla, Panpornio en tu mesa, siempre en batalla. Hecho de dulzura para una sonrisa, con Wympycornio mi amor se divisa.\n[Bridge] Panadería, Panpornio, calidez hogareña, Panpornio, tus días siempre serán leña. Hecho de ternura, hecho con cariño, con Wympycornio nunca estarás solo, niño.\n[Outro] Panadería, el mejor guardado del vecindario."
-    },
-    {
-      id: "9",
-      title: "Un camp es un narval!!!",
-      artist: "Manta Movíl",
-      album: "La Fiesta Manta",
-      duration: 230,
-      coverUrl: "https://file.garden/aKIWFnfXzhwEFeKS/Manta%20Music/Cover%20de%20rok.png",
-      genre: "Rock",
-      audioUrl: "https://ia600804.us.archive.org/26/items/l1uj1c/is8h5y.mp3",
-      type: "song",
-      lyrics: "[Verse] En la noche oscura, bajo el gran fanal, suje un [manta móvil], como un vendaval, ruedas que giran, un rugido letal, y en el [camp] espera el gran narrvar.\n[Chorus] Ow! Ow! [[Con un manta móvil, en el camp]] Ow! Ow! [[Porque es un narval No Hay mas que alcarar]]\n[Verse] El motor ruge, un ritmo tribal, luz de neón pinta el ritual, el narval observa, su trono es vital, en el [camp] se vive un sueño irreal.\n[Chorus] Ow! [[Con un manta móvil, en el camp]] Ow! [[Porque es un narval]] En el [camp], no hay más que aclarar.\n[Bridge] El motor ruge, un ritmo tribal, y en el [camp], no hay más que aclarar, en el [camp] se vive un sueño irreal, en el [camp] se siente la fibra total.\n[Chorus] Ow! Ow! [[Con un manta móvil, en el camp]] Ow! Ow! [[Porque es un narval]] En el [camp] se vive un sueño irreal."
     },
     {
       id: "12",
@@ -162,18 +139,6 @@
       genre: "Ambient",
       type: "song",
        lyrics:"[Verse] Hamarra la tuna sings to the moon, campfire crackles, a lonesome tune. Wimpy narwhal swims through my head, Cornio dreams in the ocean bed. [Chorus] Oh narval, oh narval, what's your plan? Swimming in circles, avoiding the land. Cornio dreams, so soft, so wild. Oh narval, oh narval, ocean's child. [Verse 2] The stars wink twice, the waves reply, a tale of a narwhal too shy to try. Its horn a beacon, yet it hides away, under the tides where it dreams all day. [Bridge] Wimpy narwhal, what do you see? Is the world too big, or are you just free? Cornio thoughts, floating so light, lost in the deep, lost in the night. [Chorus] Oh narval, oh narval, what's your plan? Swimming in circles, avoiding the land. Cornio dreams, so soft, so wild. Oh narval, oh narval, ocean's child. [Outro] Hamarra la tuna hums once more, narwhal drifts where the deep implores. Cornio dreams, forever they'll stay. Wimpy narwhal, drifting away."
-    },
-    {
-      id: "20",
-      title: "Bunorritos,s Cry",
-      artist: "El Mamutcornio",
-      album: "The Silent Horn of Camp",
-      duration: 230,
-      coverUrl: "https://files.catbox.moe/9xx0d4.jpg",
-      audioUrl: "https://ia600804.us.archive.org/26/items/l1uj1c/5pi38g.mp3",
-      genre: "Latino",
-      type: "song",
-      lyrics: "[Verse] The bunorrito screams in the night Wrapped up tight but ready to fight Hot sauce tears roll down its side [Chorus] Wesufro dice el bunorrito Spicy dreams and jalapeñito Wrapped in foil but feeling poquito [Verse 2] Cheese melts slow A savory drip Beans and rice on a flavor trip But the salsa burns Oh what a flip [Chorus] Wesufro dice el bunorrito Spicy dreams and jalapeñito Wrapped in foil but feeling poquito [Bridge] It's a battle A tortilla war Flavor-packed but aching sore Chili fire It can't ignore [Chorus] Wesufro dice el bunorrito Spicy dreams and jalapeñito Wrapped in foil but feeling poquito"   
     },
     {
       id: "21",
