@@ -250,7 +250,19 @@
       genre: "Ambient",
       type: "song",
       lyrics: "[Verse 1] We were raised to chase the broken halos, pretending we could ascend.\nWe carve our stories into the skyline, then light the match at the end.\nYou and I were built like twin disasters—crashing just to start again,\nand every truth we swore we’d die for keeps slipping out of our hands.\n[Chorus] Desire, singing to the fire—\na gospel built on wires.\nWe walk the line between the faith and fiction,\nwaiting for the world to bend.\nDesire, liar to the choir—\nthe flame that loves to spin.\n[Verse 2] We’ll meet the prophets on the roadside, hear them begging for spare change.\nThey speak in riddles, we nod politely—everyone’s a little deranged.\nWe’re chasing answers inside the echoes, knowing nothing stays the same.\nTell me why we praise the hunger even when it eats away our names.\n[Chorus] Desire, singing to the fire—\na gospel built on wires.\nWe walk the line between the faith and fiction,\nwaiting for the world to bend.\nDesire, liar to the choir—\nthe flame that loves to spin.\n[Bridge] Bring all the leaders, gather the dreamers,\nthey’re talking nonsense again.\nThey promise heaven with louder slogans\nbut can’t tell paper from skin.\nThey hum a hymn about “forever,” out of rhythm, out of tune—\n“More is never enough,” they chant it, underneath a dying moon.\n[Final Chorus] Desire, singing to the fire—\na gospel built on wires.\nWe dance between the truth and every fable,\nhoping for a different end.\nDesire, liar to the choir—\nburn bright and rise again."
-       }
+       },
+{
+  id: "31",
+  title: "The Velvet Surveyor",
+  artist: "Manta Movíl",
+  album: "La Fiesta Manta",
+  duration: 180, // Puedes ajustar la duración real en segundos aquí
+  coverUrl: "https://file.garden/aKIWFnfXzhwEFeKS/Manta%20Music/a-stingray-with-wheels-plushy-stuffed-with-white-headphones-on-its-head-and-a-microphone-in-the-bea.jpg",
+  audioUrl: "https://ia600804.us.archive.org/26/items/l1uj1c/The%20Velvet%20Surveyor.mp3",
+  genre: "Synthpop", // Sugerido por el uso de sintetizadores a 120 BPM
+  type: "song",
+  lyrics: "[Intro]\n[Sintetizadores polifónicos ascendentes, batería rítmica con gated reverb, 120 BPM]\n\n[Verse 1]\nPiedra sobre piedra\nEl color se perdió\nMiradas de plomo\nEsperando un sol\n(Esperando)\nCruza la avenida\nAlgo va a cambiar\nLa forma se agita\nSobre el alquitrán\n\n[Chorus]\nLa Manta azul ruge\nCorta todo el aire\nSigue su camino\nCuerpo en movimiento\n(Muevan el alma)\nLa Manta azul llega\nRitmo de gigante\nSomos el océano\nDentro de la calle\n(Somos el mar)\n\n[Verse 2]\nAbre las ventanas\nDeja entrar el viento\nEsa raya viva\nTrae el elemento\n(Es el cambio)\nNo hay más cadenas\nEn el viejo bloque\nSolo piel y pulso\nBajo este horizonte\n\n[Chorus]\nLa Manta azul ruge\nCorta todo el aire\nSigue su camino\nCuerpo en movimiento\n(Muevan el alma)\nLa Manta azul llega\nRitmo de gigante\nSomos el océano\nDentro de la calle\n(Somos el mar)\n\n[Bridge]\n[El ritmo se reduce a un pulso minimalista, pads de sintetizador etéreos]\nMira su silueta\nLimpia la mirada\nSube la marea\nNada nos detiene\n(Nada nos para)\n\n[Chorus]\nLa Manta azul ruge\nCorta todo el aire\nSigue su camino\nCuerpo en movimiento\n(Muevan el alma)\nLa Manta azul llega\nRitmo de gigante\nSomos el océano\nDentro de la calle\n\n[Outro]\n[Repetición hipnótica con capas de sintetizador y ad-libs de barítono]\nAzul sobre gris\n(La Manta azul)\nDanza del motor\n(La Manta azul)\nTodo va a cambiar\n(La Manta azul)\nSomos el diseño\n(La Manta azul)\n[Desvanecimiento lento con eco de guitarras]"
+}
         ];
 
         const artists = [
