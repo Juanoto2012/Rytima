@@ -193,53 +193,6 @@
 
     },
     {
-      id: "25",
-      title: "Sneaky Shuffle",
-      artist: "Juanoto2012",
-      album: "One Button Away OST",
-      duration: 230,
-      coverUrl: "https://files.catbox.moe/sdg9b0.png",
-      audioUrl: "https://ia600804.us.archive.org/26/items/l1uj1c/gwkp5s.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-       },
-    {
-      id: "26",
-      title: "Menu Theme",
-      artist: "Juanoto2012",
-      album: "One Button Away OST",
-      duration: 230,
-      coverUrl: "https://files.catbox.moe/sdg9b0.png",
-      audioUrl: "https://ia600804.us.archive.org/26/items/l1uj1c/1rdzlc.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-       },
-    {
-      id: "27",
-      title: "Power Up",
-      artist: "Juanoto2012",
-      album: "One Button Away OST",
-      duration: 230,
-      coverUrl: "https://files.catbox.moe/sdg9b0.png",
-      audioUrl: "https://ia600804.us.archive.org/26/items/l1uj1c/mi2flh.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-       }
-       ,
-    {
-      id: "28",
-      title: "Sneaky Shuffle (Cave Level)",
-      artist: "Juanoto2012",
-      album: "One Button Away OST",
-      duration: 230,
-      coverUrl: "https://files.catbox.moe/sdg9b0.png",
-      audioUrl: "https://ia600804.us.archive.org/26/items/l1uj1c/zzkigf.mp3",
-      genre: "Soundtrack",
-      type: "instrumental"
-       }
-
-       ,
-    {
       id: "29",
       title: "Truth in Low Volume",
       artist: "Manta Movíl",
@@ -289,11 +242,6 @@
       name: "100% Wympycornio",
       bio: "Si No Te Suscribes a 100% Wympycornio en youtube se comera tu alma",
       coverUrl: "https://i.ibb.co/mCBZH712/mcf686oigetdrq.jpg"
-    },{
-      id: "5",
-      name: "Juanoto2012",
-      bio: "developer and composer ",
-      coverUrl: "https://www.gravatar.com/avatar/c27fa969cd1e0d4752ac975e34cd0797?s=168&d=retro"
     },
     {
       id: "6",
@@ -364,13 +312,5 @@
       year: "2025",
       coverUrl: "https://i.ibb.co/Z1TrBq1f/carlos.jpg",
       tracks: ["p1"]
-    },
-    {
-      id: "8",
-      title: "One Button Away OST",
-      artist: "Juanoto2012",
-      year: "2025",
-      coverUrl: "https://files.catbox.moe/sdg9b0.png",
-      tracks: ["2,5"]
     }
         ];
